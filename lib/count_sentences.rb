@@ -25,9 +25,9 @@ class String
       false
     end
   end
-
-  def count_sentences
 binding.pry
+  def count_sentences
+
     if
 
     elsif
