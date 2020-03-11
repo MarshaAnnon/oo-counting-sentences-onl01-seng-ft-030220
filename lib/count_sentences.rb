@@ -28,15 +28,15 @@ class String
 
   def count_sentences
 
-    if 
-      
+    if
+
     elsif
-       
+
     else
       
     end
-      
-      
+
+
     end
 
   end
