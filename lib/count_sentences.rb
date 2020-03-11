@@ -1,4 +1,4 @@
-require 'pry'
+require "pry"
 
 class String
 
@@ -25,16 +25,10 @@ class String
       false
     end
   end
-binding.pry
+
   def count_sentences
 
-    if
-
-    elsif
-
-    else
-
-    end
+    binding.pry
 
 
     end
