@@ -25,9 +25,9 @@ class String
       false
     end
   end
-
+{% highlight ruby %}
   def count_sentences
-    string = self.squeeze(”.”) string = string.squeeze(”!”) string.split(/[$.|?|!]/).count end {% endhighlight %}
+      string = self.squeeze(”.”) string = string.squeeze(”!”) string.split(/[$.|?|!]/).count end {% endhighlight %}
     end
 
     binding.pry
