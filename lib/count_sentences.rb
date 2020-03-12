@@ -27,8 +27,7 @@ class String
   end
 
   def count_sentences
-      self.split('').each do|c|
-        self.split(/[$.|?|!]/).count 
+      self.split('')
     end
 
     binding.pry
